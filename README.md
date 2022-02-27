@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FlamesXsadeyes
+- 👀 I’m interested in Programming mostly websites and rarely applications
+- 🌱 I’m currently learning Js and python
+- 📫 How to reach me - dansh4868@gmail.com or +91-9431704477
